@@ -14,8 +14,7 @@ Both analyses are fully documented with biological rationale, tool explanations,
 ## Repository Structure
 
 ```
-methylation_assignment/
-│
+
 ├── wgbs/                                         WGBS bisulfite sequencing pipeline
 │   ├── README.md                                 detailed workflow + result interpretation
 │   ├── run_wgbs_pipeline.sh                      Linux/CLI reproducibility script
