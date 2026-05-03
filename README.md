@@ -1,7 +1,5 @@
 # Epigenetics and Aging Analysis
 
-DNA-methylation assignment for **Special Topics in Bioinformatics (BI-436)**, NUST SINES, Spring 2026.
-
 This repository contains two fully documented analyses covering different aspects of DNA methylation biology. The first is a whole-genome bisulfite sequencing (WGBS) pipeline applied to breast-cancer methylomes, following the Galaxy Training Network tutorial and based on the dataset from Lin *et al.* (2015). The second is an epigenetic aging-clock benchmarking analysis using the Bio-Learn library, evaluating **14 aging clocks** across two public 450K/EPIC array blood-methylation datasets through correlation matrices, age-deviation heatmaps, predicted-vs-chronological-age scatters, MAE bar charts, and predicted-age distribution box plots.
 
 Both analyses are fully documented with biological rationale, tool explanations, and result interpretations. See the individual directory READMEs for detailed workflow descriptions, code walkthroughs, and result interpretations for each analysis.
