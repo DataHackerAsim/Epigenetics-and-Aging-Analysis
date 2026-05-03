@@ -1,0 +1,10 @@
+# Python dependencies for Part 2 (EPIC Aging Clocks)
+# Tested with Python 3.10 / 3.11 / 3.12 on Linux + macOS.
+
+biolearn>=0.6.0      # aging-clock framework + DataLibrary + ModelGallery
+torch>=2.0           # required by biolearn for AltumAge / Ying clocks
+numpy>=1.23
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+seaborn>=0.12
